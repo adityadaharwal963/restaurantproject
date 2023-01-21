@@ -1,0 +1,46 @@
+body{
+    background-image: url(image/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.or-form{
+    border-radius: 30px;background-color: rgba(233, 223, 235, 0.645);
+    width: 50%;
+    
+}
+
+.button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    position: relative;
+    left:5px;
+}
+ 
+.button1:hover {
+    
+    background-color: white; 
+    color: black; 
+    border: 3px solid #4CAF50;
+    border-radius: 10px;
+  }
+
+  .or-form .menu table , th , td{
+    border: 2px solid black;
+border-collapse: collapse;
+padding-top: 16px;
+padding-bottom: 14px;
+ text-align: center;
+ padding-left: 5px;
+ padding-right: 5px;
+  }
