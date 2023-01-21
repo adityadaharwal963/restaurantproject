@@ -52,7 +52,7 @@ text-align: center;
     background-color: rgba(30, 30, 30, 0.519) ;
     background-blend-mode:lighten;
     width: 200px;
-    padding-left: 500px;
+    padding-left: 40%;
 }
 nav  ul {
     list-style-type: none;
